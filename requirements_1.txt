@@ -1,0 +1,22 @@
+# Basic
+pandas 
+jupyter 
+scipy 
+matplotlib 
+
+# Deep learning
+tensorflow 
+keras 
+h5py 
+keras-rl
+baselines
+tensorforce
+
+# AI Gym requirements
+PyOpenGL
+piglet
+pyglet
+
+# Other
+JSAnimation
+ipywidgets
